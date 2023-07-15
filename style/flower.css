@@ -16,8 +16,8 @@
 
 .header-description {
     color: #272727;
-    font-size: 30px;
-    line-height: 30px;
+    font-size: 35px;
+
     margin: 0px 400px 0px;
     border-top: 0;
 
@@ -32,6 +32,7 @@
     border-radius: 8px;
     background: #E55473;
     margin: 50px 395px 0px;
+    font-size: 40px;
 }
 
 header {
@@ -47,7 +48,27 @@ header {
 .header-flower {
     width: 935px;
     height: 1050px;
-    
-    
-    
+
 }
+
+.first-title {
+    font-size: 70px;
+
+
+
+}
+
+.first-description {
+    font-size: 40px;
+
+}
+
+.first-section {
+    text-align: center;
+    gap: 10px;
+
+
+}
+
+/* featured section style */
+
