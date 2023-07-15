@@ -1,0 +1,53 @@
+.header-title {
+    color: #272727;
+    font-size: 150px;
+    font-weight: 800;
+    padding: 50px 97px;
+    margin: 90px 300px;
+    margin-bottom: 0%;
+
+}
+
+
+
+.header-div {
+    margin-left: 70px;
+}
+
+.header-description {
+    color: #272727;
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0px 400px 0px;
+    border-top: 0;
+
+
+
+}
+
+.header-button {
+    display: inline-flex;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    margin: 50px 395px 0px;
+}
+
+header {
+    background: rgba(228, 84, 115, 0.1);
+    width: 3180px;
+    height: 850px;
+    padding: 100px 0px 100px 0px;
+    display: flex;
+    margin: 100px 300px;
+    align-items: center;
+}
+
+.header-flower {
+    width: 935px;
+    height: 1050px;
+    
+    
+    
+}
