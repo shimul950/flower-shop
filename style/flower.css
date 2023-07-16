@@ -63,7 +63,7 @@ header {
 .first-description {
     font-size: 40px;
     text-align: center;
-   
+
 
 }
 
@@ -73,31 +73,33 @@ header {
 
 .item-container {
     display: flex;
+
     gap: 40px;
     width: 700px;
-    height: 900px;
+    height: 1000px;
     margin: 100px 500px;
-   
+
+
 
 }
 
 .item1 {
 
-    padding: 200px 24px 50px 250px;
-    width: 464px;
-    height: 538px;
+    padding: 200px 24px 50px 150px;
+    width: 500px;
+    height: 600px;
     border-radius: 300px 300px 300px 300px;
 
     background: rgba(146, 26, 36, 0.15);
 
 
+
 }
 
 .item2 {
-
     padding: 200px 24px 50px 250px;
-    width: 464px;
-    height: 538px;
+    width: 500px;
+    height: 600px;
     border-radius: 300px 300px 300px 300px;
     background: rgba(5, 151, 160, 0.15);
 
@@ -107,18 +109,21 @@ header {
 .item3 {
 
     padding: 200px 24px 50px 250px;
-    width: 464px;
-    height: 538px;
+    width: 500px;
+    height: 600px;
     border-radius: 300px 300px 300px 300px;
     background: rgba(167, 33, 98, 0.15);
 
 }
 
 .flower-item-description {
-    font-size: 60px;
+    font-size: 50px;
     color: #422c2c;
-   
-    
+    padding: 40px 10px;
+
+
+
+
 }
 
 .item-image1 {
@@ -132,15 +137,60 @@ header {
 .item-image2 {
     width: 414px;
     height: 600px;
-   
-    
+
+
 
 }
 
 .item-image3 {
     width: 410px;
     height: 600px;
-    padding-right: 600px;
 
+}
 
+/* second-section style */
+.second-section {
+
+    background: rgba(56, 22, 22, 0.05);
+    width: 2500px;
+    height: 750px;
+    display: flex;
+    margin: 0px 500px 0px;
+    gap: 50px;
+    align-items: center;
+
+    border-radius: 300px 300px 300px 300px;
+}
+
+.second-item-image {
+    height: 500px;
+    width: 500px;
+    padding-left: 200px;
+    text-align: center;
+}
+
+.image-position {
+    height: 300px;
+    width: 300px;
+}
+
+/* third-section style */
+.third-section {
+    height: 800px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    margin: 100px 500px 100px 500px;
+}
+.third-section-text{
+    margin: 100px 0px 100px 200px;
+    text-align: center;
+    
+}
+.third-image{
+    padding-left: 300px;
+}
+/* fourth section */
+.fourth-section{
+    height: 200px;
+    margin: 5px 500px;
 }
