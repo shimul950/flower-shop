@@ -177,12 +177,13 @@ header {
 /* third-section style */
 .third-section {
     height: 800px;
-    background: rgba(229, 84, 115, 0.05);
+    background: rgba(168, 67, 117, 0.05);
     display: flex;
     margin: 100px 500px 100px 500px;
+    
 }
 .third-section-text{
-    margin: 100px 0px 100px 200px;
+    margin: 200px 100px 200px 100px;
     text-align: center;
     
 }
@@ -193,4 +194,39 @@ header {
 .fourth-section{
     height: 200px;
     margin: 5px 500px;
+    text-align: center;
 }
+.fifth-section{
+   height: 700px;
+   align-items: center;
+   margin: 100px 500px 100px 500px;
+   
+}
+/* sixth-section */
+.pic{
+    background:url('../images/Rectangle 9.png');
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 100px 575px 100px 500px;
+   
+
+}
+.pic-definition{
+    height: 600px;
+    width: 1500px;
+    
+    margin: 200px 600px;
+    text-align: center;
+    padding-top: 200px;
+}
+footer{
+    background-color: #272727;
+    height: 800px;
+}
+.footer-description{
+    text-align: center;
+    padding-top: 200px;
+}
+
